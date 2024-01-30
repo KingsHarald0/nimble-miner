@@ -1,0 +1,4 @@
+transformers>=4.28.0, <=4.31.0
+xformers==0.0.23
+accelerate==0.25.0
+deepspeed==0.12.6
